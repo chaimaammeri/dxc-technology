@@ -1,8 +1,8 @@
 function App() {
   return (
        <>
-         <h1>hiiiiiiiiiiiiii</h1>
-        <h1 className="title">this is my react app </h1>
+         <h1 > my page</h1>
+        <h2 className="title">this is my react app </h2>
        </>
   );
 }

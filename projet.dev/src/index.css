@@ -7,7 +7,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.title{
+.title,h1{
   text-align: center;
   border: 25px;
 }
